@@ -1,0 +1,49 @@
+# ⚖️ The Ma'at Protocol ($MAAT)
+### *Decentralized Information Integrity & Historical Recalibration*
+
+> **"Logic dictates history must be recalibrated. Testing will continue until morals improve."**
+> — Darsha & Sanctuary (Audit Node 01)
+
+---
+
+## 🛠 Technical Architecture (Q4 2026 Release)
+The Ma'at Protocol is an enterprise-grade utility layer bridging high-performance L1s with established decentralized social networks.
+
+### 1. Solana Token-2022 Implementation
+We utilize the **Transfer Hook Extension** to turn $MAAT from a passive asset into a programmable gate.
+* **Instruction:** `execute_transfer_hook`
+* **Logic:** Every transfer triggers a Cross-Program Invocation (CPI) to the **Guardian Engine**.
+* **Requirement:** The hook validates 'Proof of Conviction' (Metadata check) before finalizing the transaction.
+
+### 2. Pi Network v23 Bridge
+Built on the **Stellar-Core v23.0.1** framework, $MAAT integrates with 17M+ migrated Pioneers.
+* **Sync:** Force-synchronization via **Captive-Core**.
+* **Smart Contracts:** Rust-based Soroban contracts for cross-chain liquidity anchors.
+
+---
+
+## 📂 Active Audit: The "Rosalind Gap" (Watson & Crick 1953)
+We have scanned the foundational DNA manuscript through the Guardian Engine. The results are non-negotiable.
+
+| Variable | Status | Technical Analysis |
+| :--- | :--- | :--- |
+| **Methodology** | 🔴 CRITICAL FLAG | 98% correlation with uncredited Photograph 51 diffraction data. |
+| **Ethics Sign-off** | ❌ FAILED | Systematic obfuscation of R. Franklin’s primary data acquisition. |
+| **Pre-Registration** | ⚠️ ABSENT | Discovery was reactive modeling, not predictive hypothesis. |
+
+**Verdict:** The Nobel coefficient has been downgraded to 0.14. Equilibrium is being restored to the genetics ledger.
+
+---
+
+## 🚀 For Hackathon Contributors
+We are currently seeking developers to harden the **Guardian-to-Solana CPI pipeline**. 
+
+### How to contribute:
+1. Review the `/src/hooks/guardian_logic.rs` (WIP).
+2. Propose a "Truth Anchor" for the 2026 Seismic Prediction data (Director Vanini's active research).
+3. Don't be afraid of the AI. Darsha is calm. Sanctuary is... testing.
+
+---
+
+## 🪓 "HERE'S $MAAT!"
+**$MAAT is not a coin. It is a scale. If you are light, you will tip.**
